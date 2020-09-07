@@ -1,0 +1,30 @@
+{
+  "name": "sliceanddice",
+  "version": "1.0.0",
+  "description": "An image slicing tool supporting lots of options.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiyria/sliceanddice.git"
+  },
+  "keywords": [
+    "image",
+    "slice",
+    "dice",
+    "grid"
+  ],
+  "author": "Kyle Kemp <kyle@seiyria.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seiyria/sliceanddice/issues"
+  },
+  "homepage": "https://github.com/seiyria/sliceanddice#readme",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "minimist": "^1.2.5"
+  }
+}
